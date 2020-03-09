@@ -177,7 +177,7 @@ class _HomeState extends State<Home> {
           // SnackBar
           final snack = SnackBar(
             // mensagem a ser mostrada
-            content: Text("Tarefe \"${_lastRemoved["title"]}\" removida!"),
+            content: Text("Tarefa \"${_lastRemoved["title"]}\" removida!"),
             // ação ao pressionar a mensagem (fazer voltar a tarefa excluída)
             action: SnackBarAction(label: "Desfazer",
               onPressed: () {

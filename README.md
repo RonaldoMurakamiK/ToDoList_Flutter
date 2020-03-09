@@ -19,4 +19,4 @@ Imagem 5 (Alguns itens depois de algumas remoções).<br/>
 Imagem 6 (Botão "desfazer" para voltar o último item removido);<br/><br/>
 
 
-<img src="./screenshots/Screenshot_1583762369.png" width="33%" height="24%"/>       <img src="./screenshots/Screenshot_1583762389.png" width="33%" height="24%"/>      <img src="./screenshots/Screenshot_1583762422.png" width="33%" height="24%"/>      <img src="./screenshots/Screenshot_1583762445.png" width="33%" height="24%"/>      <img src="./screenshots/Screenshot_1583762485.png" width="33%" height="24%"/>       <img src="./screenshots/Screenshot_1583762539.png" width="33%" height="24%"/>
+<img src="./screenshots/Screenshot_1583762369.png" width="33%" height="24%"/>       <img src="./screenshots/Screenshot_1583762389.png" width="33%" height="24%"/>      <img src="./screenshots/Screenshot_1583762422.png" width="33%" height="24%"/>      <img src="./screenshots/Screenshot_1583762445.png" width="33%" height="24%"/>      <img src="./screenshots/Screenshot_1583762485.png" width="33%" height="24%"/>       <img src="./screenshots/Screenshot_1583763357.png" width="33%" height="24%"/>
