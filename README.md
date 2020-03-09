@@ -1,17 +1,22 @@
-# lista_tarefas
+<h1 align="center">
+    ToDoList
+</h1>
 
-A new Flutter project.
+# 📋 Resumo
+Aplicação relizada com fim de treinar as habilidades com Flutter. Com isso, obtive os seguintes resultados: conhecimento de novos widgets, aprendizado de como armazenar dados no aplicativo, melhoramento na utilização de mapas, utilização de dados no futuro, etc.<br/><br/>
 
-## Getting Started
+# 📖 Dados do projeto
+Projeto em Flutter para aprendizado da ferramenta.<br/> 
+Plugins utilizados: cupertino_icons: ^0.1.2 e path_provider: ^1.6.5<br/>
+Versão do Fluttere: 1.0.0+1<br/><br/>
 
-This project is a starting point for a Flutter application.
+# 🖼 Screenshots
+Imagem 1 (Alguns itens adicionados);<br/>
+Imagem 2 (Alguns itens marcados antes de ordenar);<br/>
+Imagem 3 (Alguns itens marcados depois de ordenar);<br/>
+Imagem 4 (Um item sendo removido);<br/>
+Imagem 5 (Alguns itens depois de algumas remoções).<br/>
+Imagem 6 (Botão "desfazer" para voltar o último item removido);<br/><br/>
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# ToDoList_Flutter
+<img src="./screenshots/Screenshot_1583762369.png" width="24%" height="24%"/>       <img src="./screenshots/Screenshot_1583762389.png" width="24%" height="24%"/>      <img src="./screenshots/Screenshot_1583762422.png" width="24%" height="24%"/>      <img src="./screenshots/Screenshot_1583762445.png" width="24%" height="24%"/>      <img src="./screenshots/Screenshot_1583762485.png" width="24%" height="24%"/>       <img src="./screenshots/Screenshot_1583762539.png" width="24%" height="24%"/>
