@@ -8,7 +8,7 @@ Aplicação relizada com fim de treinar as habilidades com Flutter. Com isso, ob
 # 📖 Dados do projeto
 Projeto em Flutter para aprendizado da ferramenta.<br/> 
 Plugins utilizados: cupertino_icons: ^0.1.2 e path_provider: ^1.6.5<br/>
-Versão do Fluttere: 1.0.0+1<br/><br/>
+Versão do Flutter: 1.0.0+1<br/><br/>
 
 # 🖼 Screenshots
 Imagem 1 (Alguns itens adicionados);<br/>
